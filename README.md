@@ -1,4 +1,4 @@
-![matrix banner](https://i.ibb.co/3mWz9px/metrix-banner.png)
+![matrix banner](https://i.ibb.co/zF9h589/metrix-banner1.png)
 
 <h1 align="center">Hi 👋, I'm Kevin Ventura</h1>
 <h3 align="center">A passionate full stack developer from USA</h3>
