@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm kevcoder</h1>
-<h3 align="center">A passionate full stack developer from USA.</h3>
+![matrix banner](https://i.ibb.co/3mWz9px/metrix-banner.png)
+
+<h1 align="center">Hi 👋, I'm Kevin Ventura</h1>
+<h3 align="center">A passionate full stack developer from USA</h3>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
@@ -13,7 +15,10 @@ A highly competent web professional with a proven track record in developing web
 - 👯 I’m looking to collaborate on [Dom menu lab](https://github.com/kevcoder247/dom-menu-lab) 
 - 🤔 I’m looking for help with [Dev skills](https://github.com/kevcoder247/-dev-skills-labv) 
 - 💬 Ask me about anything related to **HTML,CSS,JS,React**
-- 📫 How to reach me:  
+- 📫 How to reach me: **kevcoder247@gmail.com** 
 - ⚡ Fun fact: **I think I am funny** 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kevcoder247)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kevcoder)
+ 
 
 
