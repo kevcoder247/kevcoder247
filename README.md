@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Ventura</h1>
 <h3 align="center">Full stack developer | Based In New York City</h3>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+
 
 A highly competent web professional with a proven track record in developing websites, networking and managing databases. Have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. Eager to be challenged in order to grow and further improve my full stack skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations. Also to join a team that offers a constructive environment to strengthen my qualities and capability to handle complex situations with the opportunities at hand and build up my experience further in order to work diligently in the future.
 
