@@ -18,12 +18,12 @@ A highly competent web professional with a proven track record in developing web
 - 📫 How to reach me: **kevcoder247@gmail.com** 
 - ⚡ Fun fact: **I think I am funny** 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kevcoder247)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kevcoder)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kevcoder)
 
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/kevcoder247)  
+
 
 
 
