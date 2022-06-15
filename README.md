@@ -21,11 +21,11 @@ A highly competent web professional with a proven track record in developing web
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kevcoder247)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kevcoder)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevcoder247)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/kevcoder247)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kevcoder247)  
+
 
 ![Profile views](https://gpvc.arturio.dev/kevcoder247)  
 
