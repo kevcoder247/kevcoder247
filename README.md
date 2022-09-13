@@ -12,7 +12,7 @@ I am a Full Stack Developer that focuses on Javascript and front end frameworks 
 
 
 
-- 💬 Ask me about anything related to **HTML,CSS,JS,React**
+- 💬 Ask me about anything related to **HTML, CSS, JS, React**
 - 📫 How to reach me: **kevcoder247@gmail.com** 
 
 
